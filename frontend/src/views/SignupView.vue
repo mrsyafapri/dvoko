@@ -65,7 +65,7 @@ export default {
         }
     },
     mounted() {
-        document.title = 'Log In | Dvoko'
+        document.title = 'Sign Up | Dvoko'
     },
     methods: {
         submitForm() {
